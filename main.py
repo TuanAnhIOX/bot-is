@@ -20,6 +20,4 @@ async def script_command(interaction: discord.Interaction):
     code = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/VxezeHubHopBoss/refs/heads/main/SkidConCacBaM"))()'
     await interaction.response.send_message(f"```lua\n{code}\n```")
 
-bot.run("MTM5MTUwNjc2NjQwNzQwMTYyMw.GLPsEc.afdwhIvaKoeQHCen3-o3ukQR_9VnP4Kjxrrvu8")
-
-bot.run("MTM5MTUwNjc2NjQwNzQwMTYyMw.GLPsEc.afdwhIvaKoeQHCen3-o3ukQR_9VnP4Kjxrrvu8")
+bot.run("TOKEN_CỦA_BẠN")
